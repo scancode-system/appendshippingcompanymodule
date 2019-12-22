@@ -1,0 +1,14 @@
+{
+    "name": "AppendShippingCompany",
+    "alias": "appendshippingcompany",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\AppendShippingCompany\\Providers\\AppendShippingCompanyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

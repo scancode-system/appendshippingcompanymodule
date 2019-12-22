@@ -1,0 +1,26 @@
+{
+    "name": "scancode/append-shipping-company-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\AppendShippingCompany\\Providers\\AppendShippingCompanyServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\AppendShippingCompany\\": ""
+        }
+    },
+    "type": "laravel-module"
+}
